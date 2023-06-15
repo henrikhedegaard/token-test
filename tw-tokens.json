@@ -1,5 +1,5 @@
 {
-  "colors": {
+  "Global": {
     "fontSize": {
       "xs": {
         "value": "0.875rem",
@@ -476,7 +476,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "colors",
+      "Global",
       "borderRadius",
       "fontWeight",
       "lineHeight",
