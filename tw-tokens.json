@@ -300,7 +300,7 @@
       }
     }
   },
-  "borderRadius": {
+  "-borderRadius": {
     "none": {
       "value": "0",
       "type": "borderRadius"
@@ -338,7 +338,7 @@
       "type": "borderRadius"
     }
   },
-  "fontWeight": {
+  "-fontWeight": {
     "thin": {
       "value": "100",
       "type": "fontWeights"
@@ -477,8 +477,8 @@
   "$metadata": {
     "tokenSetOrder": [
       "Global",
-      "borderRadius",
-      "fontWeight",
+      "-borderRadius",
+      "-fontWeight",
       "lineHeight",
       "fontSize"
     ]
