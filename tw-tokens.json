@@ -112,6 +112,12 @@
           "value": "{colors.green.200}",
           "type": "color",
           "description": "alias to color"
+        },
+        "primary": {
+          "button": {
+            "value": "{colors.gray.500}",
+            "type": "color"
+          }
         }
       }
     },
