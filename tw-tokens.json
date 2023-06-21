@@ -162,10 +162,20 @@
         }
       },
       "semantic": {
-        "funky": {
-          "value": "{colors.green.200}",
+        "border": {
+          "value": "{colors.gray.700}",
           "type": "color",
-          "description": "alias to color"
+          "description": "Default border color"
+        },
+        "text-Muted": {
+          "value": "{colors.gray.400}",
+          "type": "color",
+          "description": "Secondary text color"
+        },
+        "text-primary": {
+          "value": "{colors.gray.25}",
+          "type": "color",
+          "description": "Primary text color alias to color"
         },
         "primary": {
           "button": {
