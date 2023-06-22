@@ -261,7 +261,7 @@
         "type": "borderRadius"
       },
       "full": {
-        "value": "9999",
+        "value": "9999rem",
         "type": "borderRadius"
       }
     },
@@ -352,7 +352,7 @@
         "value": "1.625",
         "type": "lineHeights"
       },
-      "loosey": {
+      "loose": {
         "value": "2.00",
         "type": "lineHeights",
         "description": "asdasdadasd"
